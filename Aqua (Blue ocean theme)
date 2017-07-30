@@ -44,7 +44,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://raw.githubusercontent.com/Revi2/Aqua-theme/master/blue_plasma_by_farore501.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://raw.githubusercontent.com/Revi2/dsqa/master/Oceanix%20by%20%40Revi.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
