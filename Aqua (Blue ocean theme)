@@ -6,8 +6,8 @@ Discord: https://discord.gg/tXXrEBv
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #6ff5cf;
-	--hover-color: #57fce8;
+	--main-color: #1ff0be;
+	--hover-color: #1ff0be;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
