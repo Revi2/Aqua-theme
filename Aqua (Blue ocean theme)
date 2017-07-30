@@ -1,0 +1,35 @@
+//META{"name":"OCeanix","description":"A peaceful, Blue theme with customizable colors & background!<
+/* "Oceanix V1" by @Revi */
+==============IMPORTANT LINKS===========
+Discord: https://discord.gg/tXXrEBv
+---------------------------------------------------------------------------------------------------------------------------------------------
+============== CUSTOMIZABLE COLORS ===============
+*/
+:root {
+	--main-color: #447ada;
+	--hover-color: #57fce8;
+    --background-blur: 0px;
+    --background-brightness: 100%;
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+========= CUSTOMIZABLE BACKGROUND IMAGE ==========
+*/
+body::after,
+.callout-backdrop,
+.user-popout::before,
+#user-profile-modal .header::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label{
+    background-image: url(https://raw.githubusercontent.com/Revi2/Aqua-theme/master/Aqua%20theme.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
