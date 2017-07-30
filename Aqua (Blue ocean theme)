@@ -1,13 +1,29 @@
-//META{"name":"OCeanix","description":"A peaceful, Blue theme with customizable colors & background!<
-/* "Oceanix V1" by @Revi */
-==============IMPORTANT LINKS===========
-Discord: https://discord.gg/tXXrEBv
+//META{"name":"Oceanix","description":"A peaceful, Ocean theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_blank'>Discord Reborn</a> by <a href='https://github.com/0mniscient' target='_blank'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_blank'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_blank'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_blank'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_blank'>Discord</a></b> | <b><a href='https://git.io/vXTqM' target='_blank'>Wiki</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_blank'>@Zerthox</a></b></span>","author":"<a href='https://github.com/Zerthox' target='_blank'>@Zerthox</a>","version":"5"}*//{}
+/* "Oceanix  v1" by @Revi */
+/* IMPORT CSS FROM GITHUB */
+@import url(https://gitcdn.xyz/repo/Zerthox/ClearVision/master/css/ClearVision_v5.min.css);
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+================ IMPORTANT LINKS =================
+Github: https://git.io/v6BHO
+Discord: https://git.io/vMnlu
+Wiki: N/A
+Latest version: N/A
+Changelog: N/A
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #1ff0be;
-	--hover-color: #1ff0be;
+	--main-color: #4389e2;
+	--hover-color: #3be6cb;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
